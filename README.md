@@ -35,8 +35,8 @@ Matplotlib
 Seaborn
 SciPy
 Statsmodels
-Author
 
+Author
 Vishnu
 
 Note
